@@ -49,7 +49,7 @@ const Projects = () => {
                             </div>
                         </div>
                         <div className="md:w-1/2 p-8 md:p-12">
-                            <h3 className="text-2xl font-bold mb-4 bg-gradient-to-r from-primary to-yellow-500 bg-clip-text text-transparent">Catch'n Cook!</h3>
+                            <h3 className="text-2xl font-bold mb-4 bg-gradient-to-r from-primary to-yellow-500 bg-clip-text text-transparent">Catch&apos;n Cook!</h3>
                             <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
                                 Una innovadora aplicación que transforma la experiencia culinaria mediante inteligencia artificial.
                                 Permite tomar fotos de ingredientes y generar recetas personalizadas al instante.

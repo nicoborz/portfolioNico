@@ -1,6 +1,6 @@
 'use client';
 
-import { FaLinkedin, FaGithub } from 'react-icons/fa';
+import { FaLinkedin } from 'react-icons/fa';
 
 const Footer = () => {
     const currentYear = new Date().getFullYear();

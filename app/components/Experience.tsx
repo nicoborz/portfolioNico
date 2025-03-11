@@ -35,7 +35,7 @@ const Experience = () => {
             responsibilities: [
                 'Realizó reportes en Jira. Revisaba reportes de compañeros del equipo para sugerir cambios o mejoras.',
                 'Frecuentemente se enfrentaba a casos TestRail.',
-                'Asumió la tarea de Professor. Guié a las nuevas incorporaciones en sus primeros pasos, local y remotamente, enseñándoles las herramientas que el proyecto usaba.'
+                'Asumió la tarea de Professor. Guió a las nuevas incorporaciones en sus primeros pasos, local y remotamente, enseñándoles las herramientas que el proyecto usaba.'
             ]
         }
     ];

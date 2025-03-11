@@ -17,7 +17,7 @@ const Education = () => {
         {
             institution: 'Clara Jackson de Heber',
             degree: 'Ingeniería',
-            period: 'Mar. 2013 - Dic. 2017'
+            period: 'Mar. 2015 - Dic. 2017'
         }
     ];
 
